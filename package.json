@@ -1,0 +1,25 @@
+{
+  "name": "zoho-crm-sdk-mongodb-module",
+  "version": "1.0.0",
+  "description": "a mongoDb module for managing tokens for zoho crm sdk ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zflowrec/zoho-crm-sdk-mongoDb-module.git"
+  },
+  "keywords": [
+    "zoho",
+    "sdk",
+    "crm",
+    "mongoDb"
+  ],
+  "author": "Yassine KARKAFI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zflowrec/zoho-crm-sdk-mongoDb-module/issues"
+  },
+  "homepage": "https://github.com/Zflowrec/zoho-crm-sdk-mongoDb-module#readme"
+}
